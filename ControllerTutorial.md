@@ -107,3 +107,9 @@ Play the game and make sure the `Main Camera` follows the `Player`. If need be, 
 You have finished the `PlayerController` tutorial, you can run the game to test if the components work. 
 
 You can also change the public variables in Unity to customize the controller to how ever you like it.
+
+To finish off, create a new folder and name it `Prefabs`.
+
+Drag and drop the `Player` and the `Main Camera` into the `Prefabs` folder.
+
+Now you may drag and drop the `Player` and the `Main Camera` into your new scene to have a functioning Controller.
