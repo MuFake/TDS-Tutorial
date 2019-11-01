@@ -1,3 +1,3 @@
 # Character Controller
 
-A basic 3D top down Character Controller with basic Camera Follow tutorial.
+A basic 3D Top Down Shooter tutorial with basic mechanics.
