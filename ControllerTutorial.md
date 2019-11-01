@@ -77,7 +77,7 @@ Drag and Drop this script onto the `Player`.
 
 Press play to make sure it works. [W A S D or Arrow Keys to move and Space to jump]
 
-## 2.Set up Camera Follow
+## 3.Set up Camera Follow
 
 Now we will set up the `Main Camera` to follow the `Player`.
 
@@ -102,7 +102,7 @@ Assign the `Main Camera` to the `camera` variable in the `PlayerController` scri
 Play the game and make sure the `Main Camera` follows the `Player`. If need be, you may increase or decrease the value of `smooth` if you want the follow speed to be increased or decreased.
 
 
-## 3. End
+## 4. End
 
 You have finished the `PlayerController` tutorial, you can run the game to test if the components work. 
 
