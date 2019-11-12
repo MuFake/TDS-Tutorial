@@ -17,9 +17,9 @@ Now create an Empty GameObject, at the top of Unity click `GameObject` > `Create
 
 Change the name of the new object to `SpawnPosition`.
 
-Now we need to change it's tag. While having the `SpawnPosition` selected, go to the `Inspector` window, and locate the `Tag` drop down menu,
+Now we need to change its tag. While having the `SpawnPosition` selected, go to the `Inspector` window, and locate the `Tag` drop down menu,
 click the drop down menu and click `Add Tag...`. Under the `Tags` list, click the plus, and type in `Spawner` and click save. Now select
-your `SpawnPosition` object, and in the `Inspector` window set it's `Tag` to `Spawner`.
+your `SpawnPosition` object, and in the `Inspector` window set its `Tag` to `Spawner`.
 
 Whilst you are still in the `Inspector`, left of the `Tag` you will see a gray cube with a drop down indicator, click on the gray cube, and select
 any colour you would like to indicate the spawner with. (This is just for visual, helps you visualise where the object is)
