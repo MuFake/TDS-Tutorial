@@ -16,6 +16,8 @@ Create a `Sphere` and call it `Bullet Prefab`.
 
 Scale down the `Bullet Prefab` to the size of bullet you want to have.
 
+Add `Rigidbody` component to the `Bullet Prefab` and make sure that `use Gravity` is ticked off. 
+
 Drag and drop the `Bullet Prefab` into your `Prefabs` folder, and delete the `Bullet Prefab` inside of the scene.
 
 Now we are set up and can start adding the code.
