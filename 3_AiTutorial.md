@@ -127,6 +127,16 @@ Now we will add the ability for the player to take damage from the AI.
 
 Drag and drop the `Health` script onto the `Player` and set the Health value to something, in this case `100`.
 
+Add these new variables to the `EnemyAI` script:
+
+```
+    bool isAttacking = false;
+    public float attackDistance = 1.5f;
+    public float damage = 20.0f;
+    public float attackTimer = 1.0f;
+
+```
+
 Inside of the `EnemyAI` script we need to change initial `if` statement from:
 
 ```
