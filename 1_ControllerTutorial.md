@@ -87,7 +87,7 @@ Add the following Variables beneath the already existing Variables.
     [Header("Camera Variables")]
     public Transform camera;
     public float ofsetY = 10.0f;
-    public float smooth = 5.0
+    public float smooth = 5.0f;
 
 ```
 
