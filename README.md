@@ -1,3 +1,3 @@
 # Character Controller
 
-A basic 3D Top Down Shooter tutorial with basic mechanics.
+4 Basic tutorials to create a Basic Top Down Shooter game with an included Example Project with already created assets and an Example Scene.
